@@ -7,13 +7,13 @@ Let's analyze the question better, suppose the number 9156747 is given as an exa
 
 The mathematical operators mentioned are multiplication (*), addition (+), subtraction (-), division (/).
 
-![image1](https://github.com/pouyaardehkhani/Advance-Programing-Course-Exercises-JAVA/blob/main/HW3%20-%20Taylor%20Series/formula.jpg)
+![image1](https://github.com/pouyaardehkhani/Advance-Programing-Course-Exercises-JAVA/blob/main/HW4%20-%20Math%20Challenge/image1.png)
 
 It should be noted that all the above operations must be performed with double accuracy and at the end convert the final output to long structure data.
 
 !!! If you have ever thought that you are facing a simple problem, you should be a little more careful with the challenge. For example, the :
 
-![image2](https://github.com/pouyaardehkhani/Advance-Programing-Course-Exercises-JAVA/blob/main/HW3%20-%20Taylor%20Series/formula.jpg)
+![image2](https://github.com/pouyaardehkhani/Advance-Programing-Course-Exercises-JAVA/blob/main/HW4%20-%20Math%20Challenge/image2.png)
 
 Note: An important condition for this problem is to use the return method to solve it and only then you will receive a score.
 
