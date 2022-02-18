@@ -5,7 +5,7 @@ Each finite number from the first sentence of the Taylor series is introduced in
 
 For the sin function around point 0 we have:
 
-![formula](https://github.com/pouyaardehkhani/Advance-Programing-Course-Exercises-JAVA/blob/main/HW3%20-%20Taylor%20Series/formula.jpg)
+![formula](https://github.com/pouyaardehkhani/Advance-Programing-Course-Exercises-JAVA/blob/master/HW3%20-%20Taylor%20Series/formula.jpg)
 
 Note: Consider i=10 for this question.
 
